@@ -3,7 +3,7 @@ programs:
     pyaudio:
       installed: false
     sounddevice:
-      installed: false
+      installed: true
     gstreamer_udp:
       installed: false
     udp_raw:
