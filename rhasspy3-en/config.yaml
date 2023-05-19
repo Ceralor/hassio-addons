@@ -11,7 +11,4 @@ arch:
   - aarch64
 webui: "[PROTO:ssl]://[HOST]:[PORT:13331]/"
 audio: true
-ingress: true
-ingress_port: 13331
 homeassistant_api: true
-panel_icon: mdi:microphone
